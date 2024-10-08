@@ -1,0 +1,11 @@
+Metadata-Version: 2.1
+Briefcase-Version: 0.3.19
+Name: medaibash
+Formal-Name: MedaiBash
+App-ID: com.example.medaibash
+Version: 0.0.1
+Home-page: https://example.com/medaibash
+Download-URL: https://example.com/medaibash
+Author: Jane Developer
+Author-email: jane@example.com
+Summary: My first application
